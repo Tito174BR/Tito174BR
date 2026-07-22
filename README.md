@@ -82,7 +82,7 @@ Desenvolvo plataformas, APIs, integrações e automações para transformar oper
 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 
-Base de projeto em TypeScript.
+Projeto público mantido por Marcus Vinicius.
 
 `TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 09 de dez. de 2024
 
@@ -94,17 +94,95 @@ Base de projeto em TypeScript.
 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 
-Aplicação de catálogo e entrega de cafés.
+Projeto público mantido por Marcus Vinicius.
 
-`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 29 de nov. de 2024
+`JavaScript` • ⭐ 0 • ⑂ 0 • Atualizado em 29 de nov. de 2024
 
 [Código](https://gitlab.com/Tito174BR/coffee_delivery)
+
+---
+
+### [xr](https://github.com/Tito174BR/xr)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`HTML` • ⭐ 0 • ⑂ 0 • Atualizado em 21 de out. de 2022
+
+`hacktoberfest` `hacktoberfest-accepted` `hacktoberfest2022`
+
+[Código](https://github.com/Tito174BR/xr)
+
+---
+
+### [tipagem_sanguinea](https://github.com/Tito174BR/tipagem_sanguinea)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`HTML` • ⭐ 0 • ⑂ 0 • Atualizado em 15 de set. de 2022
+
+[Código](https://github.com/Tito174BR/tipagem_sanguinea)
+
+---
+
+### [matt](https://github.com/Tito174BR/matt)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+⭐ 0 • ⑂ 0 • Atualizado em 06 de ago. de 2022
+
+[Código](https://github.com/Tito174BR/matt)
+
+---
+
+### [redimine](https://github.com/Tito174BR/redimine)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`Shell` • ⭐ 0 • ⑂ 0 • Atualizado em 08 de jul. de 2022
+
+[Código](https://github.com/Tito174BR/redimine)
+
+---
+
+### [endpoint](https://github.com/Tito174BR/endpoint)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`JavaScript` • ⭐ 0 • ⑂ 0 • Atualizado em 03 de jun. de 2022
+
+[Código](https://github.com/Tito174BR/endpoint)
+
+---
+
+### [whatsap](https://github.com/Tito174BR/whatsap)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`JavaScript` • ⭐ 0 • ⑂ 0 • Atualizado em 20 de mai. de 2022
+
+[Código](https://github.com/Tito174BR/whatsap)
 <!-- AUTO:PROJECTS:END -->
 
 ## Atividade pública recente
 
 <!-- AUTO:ACTIVITY:START -->
-_Nenhuma atividade pública recente foi retornada pelas APIs._
+- **22 de jul. de 2026 · GitHub:** [Criou branch main](https://github.com/Tito174BR/Tito174BR) em **Tito174BR/Tito174BR**
+- **09 de dez. de 2024 · GitLab:** pushed new Codebase Typescript em **Projeto #65234844**
+- **09 de dez. de 2024 · GitLab:** created Codebase Typescript em **Projeto #65234844**
+- **29 de nov. de 2024 · GitLab:** pushed new Coffee Delivery em **Projeto #64952694**
+- **29 de nov. de 2024 · GitLab:** created Coffee Delivery em **Projeto #64952694**
 <!-- AUTO:ACTIVITY:END -->
 
 ## Foco atual
@@ -126,7 +204,7 @@ _Nenhuma atividade pública recente foi retornada pelas APIs._
 <div align="center">
 
 <!-- AUTO:UPDATED:START -->
-Última sincronização pública: **22 de julho de 2026 às 02:06**.
+Última sincronização pública: **22 de julho de 2026 às 02:12**.
 <!-- AUTO:UPDATED:END -->
 
 </div>
