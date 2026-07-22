@@ -1,0 +1,15 @@
+{
+  "name": "tito174br-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "README de perfil sincronizado com GitHub e GitLab.",
+  "scripts": {
+    "update": "node scripts/update-profile.mjs",
+    "update:offline": "node scripts/update-profile.mjs --offline",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

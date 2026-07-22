@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-07-22T05:06:15.137Z",
+  "profile": {
+    "name": "Marcus Vinicius",
+    "username": "Tito174BR",
+    "headline": "Software Engineer • Analista de Implantação • DevOps & Integrações",
+    "location": "Brasil",
+    "company": "MVTech Solutions",
+    "website": "https://mvtech.dev.br"
+  },
+  "totals": {
+    "publicProjects": 2,
+    "stars": 0,
+    "forks": 0,
+    "publicCommits": 0,
+    "recentActivities": 0
+  },
+  "languages": [
+    {
+      "name": "TypeScript",
+      "bytes": 1,
+      "percentage": 50
+    },
+    {
+      "name": "JavaScript",
+      "bytes": 1,
+      "percentage": 50
+    }
+  ],
+  "projects": [
+    {
+      "platform": "gitlab",
+      "name": "Codebase Typescript",
+      "fullName": "Tito174BR/codebase_typescript",
+      "description": "Base de projeto em TypeScript.",
+      "url": "https://gitlab.com/Tito174BR/codebase_typescript",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2024-12-09T13:09:12.217Z",
+      "topics": []
+    },
+    {
+      "platform": "gitlab",
+      "name": "Coffee Delivery",
+      "fullName": "Tito174BR/coffee_delivery",
+      "description": "Aplicação de catálogo e entrega de cafés.",
+      "url": "https://gitlab.com/Tito174BR/coffee_delivery",
+      "homepage": null,
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2024-11-29T16:53:32.223Z",
+      "topics": []
+    }
+  ],
+  "activity": [],
+  "contributions": {
+    "github": null,
+    "gitlabRecentPushCommits": 0
+  },
+  "sources": {
+    "github": {
+      "available": false,
+      "error": "Aguardando primeira sincronização."
+    },
+    "gitlab": {
+      "available": true,
+      "error": null
+    }
+  }
+}

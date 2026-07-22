@@ -1,0 +1,47 @@
+image: node:24-alpine
+
+stages:
+  - update
+
+variables:
+  GIT_DEPTH: "0"
+
+update_public_profile:
+  stage: update
+  interruptible: true
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_PIPELINE_SOURCE == "web"'
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      changes:
+        - portfolio.config.json
+        - README.template.md
+        - scripts/**/*
+        - .gitlab-ci.yml
+  script:
+    - npm run update
+    - npm run check
+    - |
+      if [ -z "$GITLAB_PUSH_TOKEN" ]; then
+        echo "GITLAB_PUSH_TOKEN não definido. Os arquivos serão mantidos como artifacts."
+        exit 0
+      fi
+
+      if git diff --quiet -- README.md data/portfolio.json assets/generated; then
+        echo "Nenhuma alteração pública encontrada."
+        exit 0
+      fi
+
+      git config user.name "portfolio-bot"
+      git config user.email "portfolio-bot@users.noreply.gitlab.com"
+      git remote set-url origin "https://oauth2:${GITLAB_PUSH_TOKEN}@gitlab.com/${CI_PROJECT_PATH}.git"
+      git add README.md data/portfolio.json assets/generated
+      git commit -m "chore(profile): atualizar dados públicos [skip ci]"
+      git push origin "HEAD:${CI_DEFAULT_BRANCH}"
+  artifacts:
+    when: always
+    expire_in: 7 days
+    paths:
+      - README.md
+      - data/portfolio.json
+      - assets/generated/*.svg

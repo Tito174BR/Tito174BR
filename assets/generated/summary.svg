@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Resumo público do perfil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <rect width="900" height="180" rx="16" fill="url(#bg)" stroke="#30363D"/>
+  <style>
+    .title{font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#F0F6FC}
+    .label{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#8B949E}
+    .value{font:700 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#F0F6FC}
+    .small{font:500 11px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#C9D1D9}
+  </style>
+  <text x="25" y="38" class="title">Resumo público — GitHub + GitLab</text><g transform="translate(25 67)">
+      <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
+      <text x="14" y="29" class="value">2</text>
+      <text x="14" y="56" class="label">Projetos públicos</text>
+    </g>
+<g transform="translate(199 67)">
+      <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
+      <text x="14" y="29" class="value">0</text>
+      <text x="14" y="56" class="label">Commits visíveis</text>
+    </g>
+<g transform="translate(373 67)">
+      <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
+      <text x="14" y="29" class="value">0</text>
+      <text x="14" y="56" class="label">Stars</text>
+    </g>
+<g transform="translate(547 67)">
+      <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
+      <text x="14" y="29" class="value">0</text>
+      <text x="14" y="56" class="label">Forks</text>
+    </g>
+<g transform="translate(721 67)">
+      <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
+      <text x="14" y="29" class="value">0</text>
+      <text x="14" y="56" class="label">Atividades recentes</text>
+    </g>
+</svg>

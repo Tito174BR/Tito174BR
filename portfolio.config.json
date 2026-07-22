@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "name": "Marcus Vinicius",
+    "username": "Tito174BR",
+    "headline": "Software Engineer • Analista de Implantação • DevOps & Integrações",
+    "location": "Brasil",
+    "company": "MVTech Solutions",
+    "website": "https://mvtech.dev.br",
+    "email": "",
+    "about": "Transformo necessidades operacionais em software confiável. Atuo com desenvolvimento full stack, integrações, automações, observabilidade, bancos de dados e implantação de sistemas críticos.",
+    "focus": [
+      "APIs e plataformas SaaS",
+      "Integrações e automações",
+      "Observabilidade e infraestrutura",
+      "Sistemas de bilhetagem e operação"
+    ]
+  },
+  "sources": {
+    "github": {
+      "username": "Tito174BR",
+      "enabled": true
+    },
+    "gitlab": {
+      "username": "Tito174BR",
+      "baseUrl": "https://gitlab.com",
+      "enabled": true
+    }
+  },
+  "portfolio": {
+    "maxFeaturedProjects": 8,
+    "maxRecentActivities": 10,
+    "maxLanguages": 10,
+    "excludeForks": true,
+    "excludeArchived": true,
+    "excludedRepositories": [
+      "Tito174BR"
+    ],
+    "featuredRepositories": []
+  },
+  "skills": {
+    "backend": ["Node.js", "TypeScript", "Fastify", "Express", "Sequelize", "REST APIs"],
+    "frontend": ["React", "Next.js", "Vite", "Tailwind CSS", "PrimeReact"],
+    "mobile": ["React Native", "Expo"],
+    "databases": ["PostgreSQL", "Oracle", "SQL Server", "Redis"],
+    "devops": ["Docker", "GitLab CI/CD", "GitHub Actions", "Nginx", "Grafana", "Prometheus", "Proxmox"],
+    "tools": ["Linux", "Git", "RabbitMQ", "MinIO", "Cloudflare"]
+  }
+}

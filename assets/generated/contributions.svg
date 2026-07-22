@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Contribuições públicas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="url(#bg)" stroke="#30363D"/>
+  <style>
+    .title{font:700 19px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#F0F6FC}
+    .label{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#8B949E}
+    .value{font:700 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#F0F6FC}
+    .small{font:500 11px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#C9D1D9}
+  </style>
+  
+      <text x="25" y="38" class="title">Atividade pública recente por mês</text>
+      <g>
+        <rect x="45" y="161" width="48" height="4" rx="6" fill="#58A6FF"/>
+        <text x="69" y="187" text-anchor="middle" class="label">ago</text>
+        <text x="69" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="111" y="161" width="48" height="4" rx="6" fill="#FC6D26"/>
+        <text x="135" y="187" text-anchor="middle" class="label">set</text>
+        <text x="135" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="177" y="161" width="48" height="4" rx="6" fill="#58A6FF"/>
+        <text x="201" y="187" text-anchor="middle" class="label">out</text>
+        <text x="201" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="243" y="161" width="48" height="4" rx="6" fill="#FC6D26"/>
+        <text x="267" y="187" text-anchor="middle" class="label">nov</text>
+        <text x="267" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="309" y="161" width="48" height="4" rx="6" fill="#58A6FF"/>
+        <text x="333" y="187" text-anchor="middle" class="label">dez</text>
+        <text x="333" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="375" y="161" width="48" height="4" rx="6" fill="#FC6D26"/>
+        <text x="399" y="187" text-anchor="middle" class="label">jan</text>
+        <text x="399" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="441" y="161" width="48" height="4" rx="6" fill="#58A6FF"/>
+        <text x="465" y="187" text-anchor="middle" class="label">fev</text>
+        <text x="465" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="507" y="161" width="48" height="4" rx="6" fill="#FC6D26"/>
+        <text x="531" y="187" text-anchor="middle" class="label">mar</text>
+        <text x="531" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="573" y="161" width="48" height="4" rx="6" fill="#58A6FF"/>
+        <text x="597" y="187" text-anchor="middle" class="label">abr</text>
+        <text x="597" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="639" y="161" width="48" height="4" rx="6" fill="#FC6D26"/>
+        <text x="663" y="187" text-anchor="middle" class="label">mai</text>
+        <text x="663" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="705" y="161" width="48" height="4" rx="6" fill="#58A6FF"/>
+        <text x="729" y="187" text-anchor="middle" class="label">jun</text>
+        <text x="729" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+<g>
+        <rect x="771" y="161" width="48" height="4" rx="6" fill="#FC6D26"/>
+        <text x="795" y="187" text-anchor="middle" class="label">jul</text>
+        <text x="795" y="154" text-anchor="middle" class="small">0</text>
+      </g>
+      <text x="25" y="207" class="label">O calendário detalhado do GitHub aparece após a execução com GITHUB_TOKEN.</text>
+</svg>

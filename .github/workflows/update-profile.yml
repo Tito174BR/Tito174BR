@@ -1,0 +1,59 @@
+name: Atualizar portfólio público
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 06 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "portfolio.config.json"
+      - "README.template.md"
+      - "scripts/**"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-public-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Atualizar dados públicos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+        run: npm run update
+
+      - name: Validar artefatos
+        run: npm run check
+
+      - name: Publicar atualização
+        run: |
+          if git diff --quiet -- README.md data/portfolio.json assets/generated; then
+            echo "Nenhuma alteração pública encontrada."
+            exit 0
+          fi
+
+          git config user.name "portfolio-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/portfolio.json assets/generated
+          git commit -m "chore(profile): atualizar dados públicos"
+          git push
