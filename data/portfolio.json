@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T05:12:42.477Z",
+  "generatedAt": "2026-07-22T08:48:23.856Z",
   "profile": {
     "name": "Marcus Vinicius",
     "username": "Tito174BR",
@@ -17,46 +17,81 @@
     ]
   },
   "totals": {
-    "publicProjects": 9,
+    "publicProjects": 10,
     "stars": 0,
     "forks": 0,
-    "publicCommits": 34,
-    "recentActivities": 5,
+    "publicCommits": 38,
+    "recentActivities": 7,
     "followers": 3
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 4529,
-      "percentage": 56.6
+      "bytes": 4540,
+      "percentage": 50.4
+    },
+    {
+      "name": "TypeScript",
+      "bytes": 1952,
+      "percentage": 21.7
     },
     {
       "name": "HTML",
       "bytes": 1089,
-      "percentage": 13.6
-    },
-    {
-      "name": "TypeScript",
-      "bytes": 1000,
-      "percentage": 12.5
+      "percentage": 12.1
     },
     {
       "name": "Shell",
       "bytes": 928,
-      "percentage": 11.6
+      "percentage": 10.3
     },
     {
       "name": "CSS",
-      "bytes": 383,
-      "percentage": 4.8
+      "bytes": 394,
+      "percentage": 4.4
     },
     {
       "name": "Dockerfile",
-      "bytes": 72,
-      "percentage": 0.9
+      "bytes": 76,
+      "percentage": 0.8
+    },
+    {
+      "name": "PLpgSQL",
+      "bytes": 21,
+      "percentage": 0.2
+    },
+    {
+      "name": "Makefile",
+      "bytes": 1,
+      "percentage": 0
     }
   ],
   "projects": [
+    {
+      "platform": "github",
+      "name": "implantahub",
+      "fullName": "Tito174BR/implantahub",
+      "description": null,
+      "url": "https://github.com/Tito174BR/implantahub",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 423684,
+        "PLpgSQL": 9133,
+        "JavaScript": 5117,
+        "CSS": 4842,
+        "Dockerfile": 2007,
+        "Makefile": 286
+      },
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "updatedAt": "2026-07-22T05:33:03Z",
+      "createdAt": "2026-07-22T05:26:11Z",
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
     {
       "platform": "gitlab",
       "name": "Codebase Typescript",
@@ -205,29 +240,34 @@
       "topics": [],
       "archived": false,
       "fork": false
-    },
+    }
+  ],
+  "allProjects": [
     {
       "platform": "github",
-      "name": "whatsap",
-      "fullName": "Tito174BR/whatsap",
+      "name": "implantahub",
+      "fullName": "Tito174BR/implantahub",
       "description": null,
-      "url": "https://github.com/Tito174BR/whatsap",
+      "url": "https://github.com/Tito174BR/implantahub",
       "homepage": null,
-      "language": "JavaScript",
+      "language": "TypeScript",
       "languages": {
-        "JavaScript": 17674
+        "TypeScript": 423684,
+        "PLpgSQL": 9133,
+        "JavaScript": 5117,
+        "CSS": 4842,
+        "Dockerfile": 2007,
+        "Makefile": 286
       },
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
-      "updatedAt": "2022-05-20T18:19:41Z",
-      "createdAt": "2022-05-19T20:45:58Z",
+      "updatedAt": "2026-07-22T05:33:03Z",
+      "createdAt": "2026-07-22T05:26:11Z",
       "topics": [],
       "archived": false,
       "fork": false
-    }
-  ],
-  "allProjects": [
+    },
     {
       "platform": "gitlab",
       "name": "Codebase Typescript",
@@ -421,6 +461,24 @@
   "activity": [
     {
       "platform": "github",
+      "type": "PushEvent",
+      "repository": "Tito174BR/implantahub",
+      "url": "https://github.com/Tito174BR/implantahub",
+      "createdAt": "2026-07-22T05:33:04Z",
+      "action": "Enviou 0 commit(s)",
+      "count": 0
+    },
+    {
+      "platform": "github",
+      "type": "CreateEvent",
+      "repository": "Tito174BR/implantahub",
+      "url": "https://github.com/Tito174BR/implantahub",
+      "createdAt": "2026-07-22T05:26:34Z",
+      "action": "Criou branch main",
+      "count": 1
+    },
+    {
+      "platform": "github",
       "type": "CreateEvent",
       "repository": "Tito174BR/Tito174BR",
       "url": "https://github.com/Tito174BR/Tito174BR",
@@ -471,14 +529,14 @@
   ],
   "contributions": {
     "github": {
-      "totalCommitContributions": 1,
+      "totalCommitContributions": 4,
       "totalIssueContributions": 0,
       "totalPullRequestContributions": 0,
       "totalPullRequestReviewContributions": 0,
-      "totalRepositoryContributions": 0,
+      "totalRepositoryContributions": 1,
       "restrictedContributionsCount": 0,
       "contributionCalendar": {
-        "totalContributions": 1,
+        "totalContributions": 5,
         "weeks": [
           {
             "contributionDays": [
@@ -2527,7 +2585,7 @@
               },
               {
                 "date": "2026-07-22",
-                "contributionCount": 1,
+                "contributionCount": 5,
                 "color": "#216e39"
               }
             ]
@@ -2539,11 +2597,11 @@
   },
   "platformStats": {
     "github": {
-      "publicRepositories": 7,
+      "publicRepositories": 8,
       "stars": 0,
       "forks": 0,
       "recentPushCommits": 0,
-      "indexedPublicCommits": 32
+      "indexedPublicCommits": 36
     },
     "gitlab": {
       "publicRepositories": 2,
@@ -2568,7 +2626,7 @@
         "blog": "",
         "followers": 3,
         "following": 6,
-        "publicRepos": 9,
+        "publicRepos": 10,
         "createdAt": "2020-03-12T01:19:14Z"
       }
     },
