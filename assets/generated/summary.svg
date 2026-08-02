@@ -17,12 +17,12 @@
   </style>
   <text x="25" y="38" class="title">Resumo público — GitHub + GitLab</text><g transform="translate(25 67)">
       <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
-      <text x="14" y="29" class="value">10</text>
+      <text x="14" y="29" class="value">12</text>
       <text x="14" y="56" class="label">Projetos públicos</text>
     </g>
 <g transform="translate(199 67)">
       <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
-      <text x="14" y="29" class="value">38</text>
+      <text x="14" y="29" class="value">40</text>
       <text x="14" y="56" class="label">Commits visíveis</text>
     </g>
 <g transform="translate(373 67)">
@@ -37,7 +37,7 @@
     </g>
 <g transform="translate(721 67)">
       <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
-      <text x="14" y="29" class="value">7</text>
+      <text x="14" y="29" class="value">9</text>
       <text x="14" y="56" class="label">Atividades recentes</text>
     </g>
 </svg>

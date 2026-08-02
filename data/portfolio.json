@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T08:36:06.248Z",
+  "generatedAt": "2026-08-02T08:39:21.949Z",
   "profile": {
     "name": "Marcus Vinicius",
     "username": "Tito174BR",
@@ -17,56 +17,105 @@
     ]
   },
   "totals": {
-    "publicProjects": 10,
+    "publicProjects": 12,
     "stars": 0,
     "forks": 0,
-    "publicCommits": 38,
-    "recentActivities": 7,
+    "publicCommits": 40,
+    "recentActivities": 9,
     "followers": 3
   },
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 4540,
-      "percentage": 50.4
+      "bytes": 4583,
+      "percentage": 41.7
     },
     {
       "name": "TypeScript",
-      "bytes": 1952,
-      "percentage": 21.7
+      "bytes": 3714,
+      "percentage": 33.8
     },
     {
       "name": "HTML",
       "bytes": 1089,
-      "percentage": 12.1
+      "percentage": 9.9
     },
     {
       "name": "Shell",
       "bytes": 928,
-      "percentage": 10.3
+      "percentage": 8.4
     },
     {
       "name": "CSS",
-      "bytes": 394,
+      "bytes": 480,
       "percentage": 4.4
     },
     {
       "name": "Dockerfile",
-      "bytes": 76,
-      "percentage": 0.8
+      "bytes": 117,
+      "percentage": 1.1
     },
     {
       "name": "PLpgSQL",
-      "bytes": 21,
-      "percentage": 0.2
+      "bytes": 80,
+      "percentage": 0.7
     },
     {
       "name": "Makefile",
-      "bytes": 1,
-      "percentage": 0
+      "bytes": 7,
+      "percentage": 0.1
     }
   ],
   "projects": [
+    {
+      "platform": "github",
+      "name": "ledgerguard",
+      "fullName": "Tito174BR/ledgerguard",
+      "description": "Plataforma SaaS de ledger, conciliação financeira e antifraude explicável.",
+      "url": "https://github.com/Tito174BR/ledgerguard",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 181129,
+        "CSS": 18568,
+        "Dockerfile": 6538,
+        "JavaScript": 4926,
+        "PLpgSQL": 2580,
+        "Makefile": 695
+      },
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "updatedAt": "2026-08-01T20:49:15Z",
+      "createdAt": "2026-08-01T20:49:11Z",
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
+    {
+      "platform": "github",
+      "name": "integraflow",
+      "fullName": "Tito174BR/integraflow",
+      "description": "Plataforma iPaaS multi-tenant para criação, execução e monitoramento de integrações corporativas.",
+      "url": "https://github.com/Tito174BR/integraflow",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 414601,
+        "PLpgSQL": 21606,
+        "JavaScript": 9106,
+        "Dockerfile": 4926,
+        "Makefile": 1582
+      },
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "updatedAt": "2026-08-01T20:01:31Z",
+      "createdAt": "2026-08-01T20:01:27Z",
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
     {
       "platform": "github",
       "name": "implantahub",
@@ -199,50 +248,58 @@
       "topics": [],
       "archived": false,
       "fork": false
-    },
-    {
-      "platform": "github",
-      "name": "redimine",
-      "fullName": "Tito174BR/redimine",
-      "description": null,
-      "url": "https://github.com/Tito174BR/redimine",
-      "homepage": null,
-      "language": "Shell",
-      "languages": {
-        "Shell": 1518,
-        "Dockerfile": 117
-      },
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "updatedAt": "2022-07-08T16:45:37Z",
-      "createdAt": "2022-07-08T16:44:56Z",
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
-    {
-      "platform": "github",
-      "name": "endpoint",
-      "fullName": "Tito174BR/endpoint",
-      "description": null,
-      "url": "https://github.com/Tito174BR/endpoint",
-      "homepage": null,
-      "language": "JavaScript",
-      "languages": {
-        "JavaScript": 5777
-      },
-      "stars": 0,
-      "forks": 0,
-      "openIssues": 0,
-      "updatedAt": "2022-06-03T18:50:36Z",
-      "createdAt": "2022-06-03T18:36:14Z",
-      "topics": [],
-      "archived": false,
-      "fork": false
     }
   ],
   "allProjects": [
+    {
+      "platform": "github",
+      "name": "ledgerguard",
+      "fullName": "Tito174BR/ledgerguard",
+      "description": "Plataforma SaaS de ledger, conciliação financeira e antifraude explicável.",
+      "url": "https://github.com/Tito174BR/ledgerguard",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 181129,
+        "CSS": 18568,
+        "Dockerfile": 6538,
+        "JavaScript": 4926,
+        "PLpgSQL": 2580,
+        "Makefile": 695
+      },
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "updatedAt": "2026-08-01T20:49:15Z",
+      "createdAt": "2026-08-01T20:49:11Z",
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
+    {
+      "platform": "github",
+      "name": "integraflow",
+      "fullName": "Tito174BR/integraflow",
+      "description": "Plataforma iPaaS multi-tenant para criação, execução e monitoramento de integrações corporativas.",
+      "url": "https://github.com/Tito174BR/integraflow",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 414601,
+        "PLpgSQL": 21606,
+        "JavaScript": 9106,
+        "Dockerfile": 4926,
+        "Makefile": 1582
+      },
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "updatedAt": "2026-08-01T20:01:31Z",
+      "createdAt": "2026-08-01T20:01:27Z",
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
     {
       "platform": "github",
       "name": "implantahub",
@@ -461,6 +518,24 @@
   "activity": [
     {
       "platform": "github",
+      "type": "CreateEvent",
+      "repository": "Tito174BR/ledgerguard",
+      "url": "https://github.com/Tito174BR/ledgerguard",
+      "createdAt": "2026-08-01T20:49:16Z",
+      "action": "Criou branch main",
+      "count": 1
+    },
+    {
+      "platform": "github",
+      "type": "CreateEvent",
+      "repository": "Tito174BR/integraflow",
+      "url": "https://github.com/Tito174BR/integraflow",
+      "createdAt": "2026-08-01T20:01:32Z",
+      "action": "Criou branch main",
+      "count": 1
+    },
+    {
+      "platform": "github",
       "type": "PushEvent",
       "repository": "Tito174BR/implantahub",
       "url": "https://github.com/Tito174BR/implantahub",
@@ -529,54 +604,15 @@
   ],
   "contributions": {
     "github": {
-      "totalCommitContributions": 4,
+      "totalCommitContributions": 6,
       "totalIssueContributions": 0,
       "totalPullRequestContributions": 0,
       "totalPullRequestReviewContributions": 0,
-      "totalRepositoryContributions": 1,
+      "totalRepositoryContributions": 3,
       "restrictedContributionsCount": 0,
       "contributionCalendar": {
-        "totalContributions": 5,
+        "totalContributions": 9,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-07-27",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-28",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-29",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-30",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-31",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2600,6 +2636,15 @@
               },
               {
                 "date": "2026-08-01",
+                "contributionCount": 4,
+                "color": "#216e39"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-08-02",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2612,11 +2657,11 @@
   },
   "platformStats": {
     "github": {
-      "publicRepositories": 8,
+      "publicRepositories": 10,
       "stars": 0,
       "forks": 0,
       "recentPushCommits": 0,
-      "indexedPublicCommits": 36
+      "indexedPublicCommits": 38
     },
     "gitlab": {
       "publicRepositories": 2,
@@ -2641,7 +2686,7 @@
         "blog": "",
         "followers": 3,
         "following": 6,
-        "publicRepos": 10,
+        "publicRepos": 12,
         "createdAt": "2020-03-12T01:19:14Z"
       }
     },

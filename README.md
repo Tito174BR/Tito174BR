@@ -78,6 +78,30 @@ Desenvolvo plataformas, APIs, integrações e automações para transformar oper
 ## Projetos públicos em destaque
 
 <!-- AUTO:PROJECTS:START -->
+### [ledgerguard](https://github.com/Tito174BR/ledgerguard)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Plataforma SaaS de ledger, conciliação financeira e antifraude explicável.
+
+`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 01 de ago. de 2026
+
+[Código](https://github.com/Tito174BR/ledgerguard)
+
+---
+
+### [integraflow](https://github.com/Tito174BR/integraflow)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Plataforma iPaaS multi-tenant para criação, execução e monitoramento de integrações corporativas.
+
+`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 01 de ago. de 2026
+
+[Código](https://github.com/Tito174BR/integraflow)
+
+---
+
 ### [implantahub](https://github.com/Tito174BR/implantahub)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -149,35 +173,13 @@ Projeto público mantido por Marcus Vinicius.
 ⭐ 0 • ⑂ 0 • Atualizado em 06 de ago. de 2022
 
 [Código](https://github.com/Tito174BR/matt)
-
----
-
-### [redimine](https://github.com/Tito174BR/redimine)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-Projeto público mantido por Marcus Vinicius.
-
-`Shell` • ⭐ 0 • ⑂ 0 • Atualizado em 08 de jul. de 2022
-
-[Código](https://github.com/Tito174BR/redimine)
-
----
-
-### [endpoint](https://github.com/Tito174BR/endpoint)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-Projeto público mantido por Marcus Vinicius.
-
-`JavaScript` • ⭐ 0 • ⑂ 0 • Atualizado em 03 de jun. de 2022
-
-[Código](https://github.com/Tito174BR/endpoint)
 <!-- AUTO:PROJECTS:END -->
 
 ## Atividade pública recente
 
 <!-- AUTO:ACTIVITY:START -->
+- **01 de ago. de 2026 · GitHub:** [Criou branch main](https://github.com/Tito174BR/ledgerguard) em **Tito174BR/ledgerguard**
+- **01 de ago. de 2026 · GitHub:** [Criou branch main](https://github.com/Tito174BR/integraflow) em **Tito174BR/integraflow**
 - **22 de jul. de 2026 · GitHub:** [Enviou 0 commit(s)](https://github.com/Tito174BR/implantahub) em **Tito174BR/implantahub**
 - **22 de jul. de 2026 · GitHub:** [Criou branch main](https://github.com/Tito174BR/implantahub) em **Tito174BR/implantahub**
 - **22 de jul. de 2026 · GitHub:** [Criou branch main](https://github.com/Tito174BR/Tito174BR) em **Tito174BR/Tito174BR**
@@ -206,7 +208,7 @@ Projeto público mantido por Marcus Vinicius.
 <div align="center">
 
 <!-- AUTO:UPDATED:START -->
-Última sincronização pública: **1 de agosto de 2026 às 05:36**.
+Última sincronização pública: **2 de agosto de 2026 às 05:39**.
 <!-- AUTO:UPDATED:END -->
 
 </div>
