@@ -84,9 +84,21 @@ Desenvolvo plataformas, APIs, integrações e automações para transformar oper
 
 Plataforma SaaS de ledger, conciliação financeira e antifraude explicável.
 
-`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 01 de ago. de 2026
+`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 11 de set. de 2026
 
 [Código](https://github.com/Tito174BR/ledgerguard)
+
+---
+
+### [implantahub](https://github.com/Tito174BR/implantahub)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 11 de set. de 2026
+
+[Código](https://github.com/Tito174BR/implantahub)
 
 ---
 
@@ -99,18 +111,6 @@ Plataforma iPaaS multi-tenant para criação, execução e monitoramento de inte
 `TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 01 de ago. de 2026
 
 [Código](https://github.com/Tito174BR/integraflow)
-
----
-
-### [implantahub](https://github.com/Tito174BR/implantahub)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-Projeto público mantido por Marcus Vinicius.
-
-`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 27 de jul. de 2026
-
-[Código](https://github.com/Tito174BR/implantahub)
 
 ---
 
@@ -203,7 +203,7 @@ Projeto público mantido por Marcus Vinicius.
 <div align="center">
 
 <!-- AUTO:UPDATED:START -->
-Última sincronização pública: **10 de setembro de 2026 às 08:29**.
+Última sincronização pública: **11 de setembro de 2026 às 08:31**.
 <!-- AUTO:UPDATED:END -->
 
 </div>
