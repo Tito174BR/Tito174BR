@@ -78,6 +78,18 @@ Desenvolvo plataformas, APIs, integrações e automações para transformar oper
 ## Projetos públicos em destaque
 
 <!-- AUTO:PROJECTS:START -->
+### [implantahub](https://github.com/Tito174BR/implantahub)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+Projeto público mantido por Marcus Vinicius.
+
+`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 06 de out. de 2026
+
+[Código](https://github.com/Tito174BR/implantahub)
+
+---
+
 ### [ledgerguard](https://github.com/Tito174BR/ledgerguard)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -87,18 +99,6 @@ Plataforma SaaS de ledger, conciliação financeira e antifraude explicável.
 `TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 11 de set. de 2026
 
 [Código](https://github.com/Tito174BR/ledgerguard)
-
----
-
-### [implantahub](https://github.com/Tito174BR/implantahub)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-Projeto público mantido por Marcus Vinicius.
-
-`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 11 de set. de 2026
-
-[Código](https://github.com/Tito174BR/implantahub)
 
 ---
 
@@ -203,7 +203,7 @@ Projeto público mantido por Marcus Vinicius.
 <div align="center">
 
 <!-- AUTO:UPDATED:START -->
-Última sincronização pública: **6 de outubro de 2026 às 10:25**.
+Última sincronização pública: **7 de outubro de 2026 às 10:35**.
 <!-- AUTO:UPDATED:END -->
 
 </div>
