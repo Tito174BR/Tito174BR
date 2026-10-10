@@ -22,7 +22,7 @@
     </g>
 <g transform="translate(199 67)">
       <rect width="160" height="82" rx="12" fill="#0D1117" stroke="#30363D" filter="url(#shadow)"/>
-      <text x="14" y="29" class="value">40</text>
+      <text x="14" y="29" class="value">38</text>
       <text x="14" y="56" class="label">Commits visíveis</text>
     </g>
 <g transform="translate(373 67)">
