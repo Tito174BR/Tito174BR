@@ -84,7 +84,7 @@ Desenvolvo plataformas, APIs, integrações e automações para transformar oper
 
 Plataforma SaaS de ledger, conciliação financeira e antifraude explicável.
 
-`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 31 de out. de 2026
+`TypeScript` • ⭐ 0 • ⑂ 0 • Atualizado em 18 de nov. de 2026
 
 [Código](https://github.com/Tito174BR/ledgerguard)
 
@@ -206,7 +206,7 @@ Projeto público mantido por Marcus Vinicius.
 <div align="center">
 
 <!-- AUTO:UPDATED:START -->
-Última sincronização pública: **17 de novembro de 2026 às 13:12**.
+Última sincronização pública: **18 de novembro de 2026 às 12:48**.
 <!-- AUTO:UPDATED:END -->
 
 </div>
