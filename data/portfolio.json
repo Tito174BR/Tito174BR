@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:35:42.275Z",
+  "generatedAt": "2026-11-21T14:46:14.444Z",
   "profile": {
     "name": "Marcus Vinicius",
     "username": "Tito174BR",
@@ -21,7 +21,7 @@
     "stars": 0,
     "forks": 0,
     "publicCommits": 40,
-    "recentActivities": 7,
+    "recentActivities": 10,
     "followers": 3
   },
   "languages": [
@@ -521,6 +521,56 @@
       "type": "pushed to",
       "repository": "Projeto #88527580",
       "url": null,
+      "createdAt": "2026-11-21T01:21:00.579Z",
+      "projectPath": "project/88527580",
+      "action": "Enviou 1 commit(s) para master",
+      "count": 1
+    },
+    {
+      "platform": "gitlab",
+      "type": "pushed to",
+      "repository": "Projeto #88527580",
+      "url": null,
+      "createdAt": "2026-11-20T20:04:51.554Z",
+      "projectPath": "project/88527580",
+      "action": "Enviou 2 commit(s) para master",
+      "count": 2
+    },
+    {
+      "platform": "gitlab",
+      "type": "pushed to",
+      "repository": "Projeto #88527580",
+      "url": null,
+      "createdAt": "2026-11-20T18:49:58.280Z",
+      "projectPath": "project/88527580",
+      "action": "Enviou 11 commit(s) para master",
+      "count": 11
+    },
+    {
+      "platform": "gitlab",
+      "type": "pushed to",
+      "repository": "Projeto #88527580",
+      "url": null,
+      "createdAt": "2026-11-20T18:41:11.872Z",
+      "projectPath": "project/88527580",
+      "action": "Enviou 1 commit(s) para master",
+      "count": 1
+    },
+    {
+      "platform": "gitlab",
+      "type": "pushed to",
+      "repository": "Projeto #88527580",
+      "url": null,
+      "createdAt": "2026-11-20T18:26:43.885Z",
+      "projectPath": "project/88527580",
+      "action": "Enviou 6 commit(s) para master",
+      "count": 6
+    },
+    {
+      "platform": "gitlab",
+      "type": "pushed to",
+      "repository": "Projeto #88527580",
+      "url": null,
       "createdAt": "2026-11-10T19:45:42.074Z",
       "projectPath": "project/88527580",
       "action": "Enviou 8 commit(s) para master",
@@ -564,26 +614,6 @@
       "createdAt": "2024-12-09T13:09:12.520Z",
       "projectPath": "project/65234844",
       "action": "created Codebase Typescript",
-      "count": 1
-    },
-    {
-      "platform": "gitlab",
-      "type": "pushed new",
-      "repository": "Projeto #64952694",
-      "url": null,
-      "createdAt": "2024-11-29T17:03:19.559Z",
-      "projectPath": "project/64952694",
-      "action": "pushed new Coffee Delivery",
-      "count": 1
-    },
-    {
-      "platform": "gitlab",
-      "type": "created",
-      "repository": "Projeto #64952694",
-      "url": null,
-      "createdAt": "2024-11-29T16:53:32.584Z",
-      "projectPath": "project/64952694",
-      "action": "created Coffee Delivery",
       "count": 1
     }
   ],
@@ -2657,13 +2687,18 @@
                 "date": "2026-11-20",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-21",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
         ]
       }
     },
-    "gitlabRecentPushCommits": 15
+    "gitlabRecentPushCommits": 36
   },
   "platformStats": {
     "github": {
@@ -2677,7 +2712,7 @@
       "publicRepositories": 2,
       "stars": 0,
       "forks": 0,
-      "recentPushCommits": 15,
+      "recentPushCommits": 36,
       "repositoryCommits": 2
     }
   },
